@@ -1,8 +1,28 @@
-# React + Vite
+# Sushil G Gaming Awwards Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is another interactive style product page site.  In effect video animations and scroll animations are used to crate an immersive and engaging experience.  
 
-Currently, two official plugins are available:
+## Site and project highlights
+- Fully responsive on any device including desktop, tablet and phones.
+- Interactive hero section with ability to change and rotate some videos.
+- Animated mouse-over Bento style cards.
+- Developed using proper React components with best in class coding practices.
+- Leveragig Tailaind CSS and learning how to configure tailwind to support custom CSS styles and import custom fonts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologies Used
+
+- HTML
+- Tailwind CSS
+- JavaScript
+- React
+- GSAP
+- Vite (as for build and development)
+
+## Real-Time Viewing For Web Version
+
+The application was publised using [GitHub Pages](https://pages.github.com/). In addition a custom Github action is used to deploy on Github pages.
+
+Here is link to view the application:
+
+[Sushil G Gaming Awwards Site](https://susgupta.github.io/gaming_awwards/)
